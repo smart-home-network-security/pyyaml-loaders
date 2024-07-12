@@ -8,7 +8,7 @@ import yaml
 import collections.abc
 
 # Import IgnoreLoader
-from IgnoreLoader import IgnoreLoader
+from .IgnoreLoader import IgnoreLoader
 
 
 class IncludeLoader(yaml.SafeLoader):
