@@ -7,7 +7,7 @@ PyYAML loaders with enhanced functionalities.
 
 ## Description
 
-### [`IgnoreLoader`](pyyaml_loaders/IncludeLoader.py)
+### [`IgnoreLoader`](pyyaml_loaders/IgnoreLoader.py)
 
 Ignore all constructors with tag `!`. Load YAML file as is.
 
